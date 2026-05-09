@@ -1,6 +1,7 @@
 # Trading Bot for Binance Futures Testnet
 
 A Python application that places **MARKET** and **LIMIT** orders on the Binance Futures Testnet (USDT-M) via CLI.
+Live Link --https://percybinancetradingbot.streamlit.app/
 
 ## Setup
 
